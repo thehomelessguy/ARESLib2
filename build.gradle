@@ -30,9 +30,9 @@ dependencies {
     ftcAars 'com.acmerobotics.dashboard:dashboard:0.4.16@aar'
     
     // FTC SDK AARs
-    ftcAars 'org.firstinspires.ftc:RobotCore:10.1.1@aar'
-    ftcAars 'org.firstinspires.ftc:Hardware:10.1.1@aar'
-    ftcAars 'org.firstinspires.ftc:FtcCommon:10.1.1@aar'
+    ftcAars 'org.firstinspires.ftc:RobotCore:11.1.0@aar'
+    ftcAars 'org.firstinspires.ftc:Hardware:11.1.0@aar'
+    ftcAars 'org.firstinspires.ftc:FtcCommon:11.1.0@aar'
     
     // Pedro Pathing (FTC classes need AAR extraction, core classes can be imported natively)
     ftcAars 'com.pedropathing:ftc:2.1.1@aar'
